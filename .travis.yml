@@ -20,3 +20,5 @@ script:
   - make init
   - make all
   - make rspec
+  - make kill
+
